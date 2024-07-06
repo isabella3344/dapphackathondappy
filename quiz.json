@@ -1,19 +1,64 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of music genres with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Which genre is known for guitars?",
+      "answers": ["Rock", "Jazz", "Pop"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Which genre is known for DJ culture?",
+      "answers": ["EDM", "Rock", "Folk"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Which genre is known for rap?",
+      "answers": ["HipHop", "Blues", "Jazz"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre uses orchestras?",
+      "answers": ["Classical", "Rock", "EDM"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre is known for improvisation?",
+      "answers": ["Jazz", "Pop", "Rock"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre is known for heavy beats?",
+      "answers": ["HipHop", "Jazz", "Folk"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre includes blues scales?",
+      "answers": ["Blues", "Pop", "EDM"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre is fast-paced?",
+      "answers": ["Punk", "Jazz", "Blues"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre is for dancing?",
+      "answers": ["EDM", "Jazz", "Blues"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre has story songs?",
+      "answers": ["Country", "Rock", "Jazz"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre is upbeat and popular?",
+      "answers": ["Pop", "Jazz", "Blues"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre is experimental?",
+      "answers": ["Indie", "Jazz", "Blues"],
       "correctAnswerIndex": 0
     }
   ]
